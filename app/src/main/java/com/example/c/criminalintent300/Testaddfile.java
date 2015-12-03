@@ -5,6 +5,8 @@ package com.example.c.criminalintent300;
  */
 public class Testaddfile {
 
-
-
+    @Override
+    public boolean equals(Object o) {
+        return super.equals(o);
+    }
 }
